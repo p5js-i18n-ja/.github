@@ -1,4 +1,4 @@
-![p5.js website i18n ja project](./assets/images/p5js-website-ja-jp-640x320.png)
+![p5.js website i18n ja project](./profile/assets/images/p5js-website-ja-jp-640x320.png)
 
 # p5.js ウェブサイト 日本語翻訳 プロジェクト
 
