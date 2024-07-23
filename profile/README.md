@@ -1,4 +1,4 @@
-![p5.js i18n ja](https://github.com/p5js-i18n-ja/p5.js-website/wiki/assets/images/p5js-website-ja-jp-640x320.png)
+![p5.js i18n ja](https://github.com/p5js-i18n-ja/p5.js-website/assets/958471/e2f1e0f8-0049-48e5-9f7f-dca47197afc4)
 
 p5js ウェブサイトの日本語訳プロジェクトに興味を持ってくださりありがとうございます！  
 
